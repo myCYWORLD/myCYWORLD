@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <div align=center> 
   <p>
   <a href="mailto:choyeon960325@gmail.com" target="_blank"><img src="https://img.shields.io/badge/choyeon960325@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/eonsh11-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
 <p>
