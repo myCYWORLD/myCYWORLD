@@ -21,9 +21,10 @@ Here are some ideas to get you started:
   
 </p>
 <p>
+
   Hello I am a new developer specializing in machine learning.<br/>
   We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
+  I enjoy squash, Baduk and computer game. <br/>  
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
@@ -36,6 +37,9 @@ Here are some ideas to get you started:
 <p>
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
   <br>  
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
